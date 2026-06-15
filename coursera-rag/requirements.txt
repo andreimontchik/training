@@ -1,4 +1,9 @@
 python-dotenv
 together
 requests
-json
+matplotlib
+scikit-learn
+ipywidgets
+adjustText
+sentence_transformers
+pandas
