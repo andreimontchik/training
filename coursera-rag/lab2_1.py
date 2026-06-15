@@ -170,7 +170,7 @@ print(f"score: {score}")
 
 print("Embeddings and input size")
 
-big_text = open("large_text.txt").read()
+big_text = open("data/large_text.txt").read()
 print(f"big_text len: {len(big_text)}")
 
 # Entire text
